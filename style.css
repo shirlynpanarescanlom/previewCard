@@ -1,0 +1,66 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    background-color: hsl(47, 88%, 63%);
+}
+.attribution { 
+    font-size: 11px; 
+    margin: 20px 0;
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+.con1{
+    margin: auto;
+    width: min(100%, 350px);
+    border: 1px solid #000;
+    border-radius: 15px;
+    padding: 15px;
+    padding-bottom: 0%;
+}
+.img1{
+    width: 100%;
+    border-radius: 10px;
+}
+.p_pic{
+    height: 50px;
+    width: 20px;
+}
+.learning{
+    background-color: hsl(47, 88%, 63%);
+    font-size: 15px;
+    font-weight: bolder;
+    width: 90px;
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+    margin: 15px 0;
+}
+#p1{
+    font-size: 15px;
+    font-weight: 500;
+    color: hsl(0, 0%, 7%);
+}
+.text{
+    margin: 10px 0;
+    font-size: 22px;
+    font-weight: 600;
+}
+#content{
+    font-size: 15px;
+    color: hsl(0, 0%, 42%);
+    margin: 10px 0;
+}
+.profile{
+    display: inline;
+    margin: 15px 0;
+}
+.profile img{
+    height: 40px;
+    width: 40px;
+}
+.profile p{
+    font-size: 14px;
+    font-weight: bold;
+    margin-left: 0%;
+}
